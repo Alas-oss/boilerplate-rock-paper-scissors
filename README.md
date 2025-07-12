@@ -4,7 +4,7 @@ This is the boilerplate for the Rock Paper Scissors project. Instructions for bu
 
 This program is a solution to a machine learning challenge where I developed an intelligent Rock, Paper, Scissors (RPS) player that consistently defeats multiple bot opponents. The objective was to write a function that plays RPS not randomly, but strategically - learning and adapting based on the opponent's past moves.
 
-## My contribution
+## My Contribution
 - Developed a player function in **RPS.py** that uses opponent move history to predict and counter future moves
 - Implemented adaptive logic and pattern recognition to detect repetitive or probabilistic behaviours from each bot
 - Designed multiple strategies and adjusted them dynamically based on the specific opponent
